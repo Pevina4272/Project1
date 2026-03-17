@@ -24,4 +24,5 @@ echo "Total users:"
 cat /etc/passwd | wc -l
 echo "users with  UID 0:"
 awk -F: '$3==0 {print $1}' /etc/passwd
-echo "========================"
+
+ echo "========================"

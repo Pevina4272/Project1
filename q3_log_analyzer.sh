@@ -24,4 +24,4 @@ echo "Log analysis completed."
 
 
 
-# sudo ./q3_log_analyzer.sh /var/log/auth.log
+# sudo ./q3_log_analyzer.sh /var/log/auth.logn

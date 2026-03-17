@@ -14,5 +14,3 @@ DATE=$(date +%Y-%m-%d)
 tar -czf backup_$DATE.tar.gz "$FOLDER"
 
 echo "Backup created: backup_$DATE.tar.gz"
-
-echo "================================================="
